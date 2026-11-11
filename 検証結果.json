@@ -1,0 +1,39 @@
+{
+  "project": "FUKUOKA GTFS Station Navigator",
+  "created_at": "2026-11-11 JST",
+  "source": "https://github.com/kuwayamamasayuki/GTFS-FukuokaCitySubway",
+  "source_path": "dist/stops.txt",
+  "feed_version": "20260626",
+  "license": "CC BY 4.0",
+  "gtfs_counts": {
+    "routes": 3,
+    "stops_total": 318,
+    "stations": 37,
+    "platforms": 76,
+    "entrances": 205,
+    "trips": 3046
+  },
+  "derived_counts": {
+    "unique_station_names": 36,
+    "stations": 37,
+    "entrances": 205,
+    "exit_unique_ids": 205,
+    "exits_missing_parent": 0,
+    "exits_count_mismatches": 0,
+    "stations_without_direct_exit_records": [
+      {
+        "station_id": "37",
+        "station_name": "博多"
+      }
+    ],
+    "duplicate_station_name_records": {
+      "博多": 2
+    }
+  },
+  "known_limitations": [
+    "出入口座標はGTFS登録座標。徒歩経路ではない",
+    "GTFS車椅子区分は現況検証していない",
+    "stop_times.txt未取得のため運行時刻検索なし",
+    "駅名で統合される同名駅について路線識別は提供しない"
+  ]
+}

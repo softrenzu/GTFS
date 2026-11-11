@@ -1,0 +1,3703 @@
+{
+  "type": "FeatureCollection",
+  "name": "福岡市地下鉄_GTFS出入口205件",
+  "metadata": {
+    "source": "https://github.com/kuwayamamasayuki/GTFS-FukuokaCitySubway",
+    "source_path": "dist/stops.txt",
+    "feed_version": "20260626",
+    "license": "CC BY 4.0",
+    "generated_at": "2026-11-11"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1_Nex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.324827,
+          33.583835
+        ]
+      },
+      "properties": {
+        "stop_id": "1_Nex",
+        "stop_name": "姪浜北出入口",
+        "parent_station": "1",
+        "station_name": "姪浜",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1_Sex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.324785,
+          33.583596
+        ]
+      },
+      "properties": {
+        "stop_id": "1_Sex",
+        "stop_name": "姪浜南出入口",
+        "parent_station": "1",
+        "station_name": "姪浜",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.339477,
+          33.581001
+        ]
+      },
+      "properties": {
+        "stop_id": "2_1ex",
+        "stop_name": "室見1番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.339452,
+          33.580748
+        ]
+      },
+      "properties": {
+        "stop_id": "2_2ex",
+        "stop_name": "室見2番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.340523,
+          33.580828
+        ]
+      },
+      "properties": {
+        "stop_id": "2_3ex",
+        "stop_name": "室見3番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.340404,
+          33.580604
+        ]
+      },
+      "properties": {
+        "stop_id": "2_4ex",
+        "stop_name": "室見4番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.339993,
+          33.580863
+        ]
+      },
+      "properties": {
+        "stop_id": "2_5ex",
+        "stop_name": "室見5番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.339708,
+          33.580935
+        ]
+      },
+      "properties": {
+        "stop_id": "2_6ex",
+        "stop_name": "室見6番出入口",
+        "parent_station": "2",
+        "station_name": "室見",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.347556,
+          33.581185
+        ]
+      },
+      "properties": {
+        "stop_id": "3_1ex",
+        "stop_name": "藤崎1番出入口",
+        "parent_station": "3",
+        "station_name": "藤崎",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.347607,
+          33.581467
+        ]
+      },
+      "properties": {
+        "stop_id": "3_2ex",
+        "stop_name": "藤崎2番出入口",
+        "parent_station": "3",
+        "station_name": "藤崎",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.34869,
+          33.581507
+        ]
+      },
+      "properties": {
+        "stop_id": "3_3ex",
+        "stop_name": "藤崎3番出入口",
+        "parent_station": "3",
+        "station_name": "藤崎",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.34951,
+          33.581395
+        ]
+      },
+      "properties": {
+        "stop_id": "3_4ex",
+        "stop_name": "藤崎4番出入口",
+        "parent_station": "3",
+        "station_name": "藤崎",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.34842,
+          33.581474
+        ]
+      },
+      "properties": {
+        "stop_id": "3_5ex",
+        "stop_name": "藤崎5番出入口",
+        "parent_station": "3",
+        "station_name": "藤崎",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.357987,
+          33.583269
+        ]
+      },
+      "properties": {
+        "stop_id": "4_1ex",
+        "stop_name": "西新1番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.358712,
+          33.583208
+        ]
+      },
+      "properties": {
+        "stop_id": "4_2ex",
+        "stop_name": "西新2番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.359057,
+          33.58366
+        ]
+      },
+      "properties": {
+        "stop_id": "4_3ex",
+        "stop_name": "西新3番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.359577,
+          33.583396
+        ]
+      },
+      "properties": {
+        "stop_id": "4_4ex",
+        "stop_name": "西新4番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.359773,
+          33.583679
+        ]
+      },
+      "properties": {
+        "stop_id": "4_5ex",
+        "stop_name": "西新5番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.360604,
+          33.584146
+        ]
+      },
+      "properties": {
+        "stop_id": "4_6ex",
+        "stop_name": "西新6番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.359928,
+          33.58414
+        ]
+      },
+      "properties": {
+        "stop_id": "4_7ex",
+        "stop_name": "西新7番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4_8ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.359838,
+          33.584098
+        ]
+      },
+      "properties": {
+        "stop_id": "4_8ex",
+        "stop_name": "西新8番出入口",
+        "parent_station": "4",
+        "station_name": "西新",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.369008,
+          33.589822
+        ]
+      },
+      "properties": {
+        "stop_id": "5_1ex",
+        "stop_name": "唐人町1番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.369159,
+          33.589642
+        ]
+      },
+      "properties": {
+        "stop_id": "5_2ex",
+        "stop_name": "唐人町2番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.369896,
+          33.590254
+        ]
+      },
+      "properties": {
+        "stop_id": "5_3ex",
+        "stop_name": "唐人町3番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370982,
+          33.590407
+        ]
+      },
+      "properties": {
+        "stop_id": "5_4ex",
+        "stop_name": "唐人町4番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370611,
+          33.590154
+        ]
+      },
+      "properties": {
+        "stop_id": "5_5ex",
+        "stop_name": "唐人町5番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370999,
+          33.590169
+        ]
+      },
+      "properties": {
+        "stop_id": "5_6ex",
+        "stop_name": "唐人町6番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3704,
+          33.590381
+        ]
+      },
+      "properties": {
+        "stop_id": "5_7ex",
+        "stop_name": "唐人町7番出入口",
+        "parent_station": "5",
+        "station_name": "唐人町",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.378169,
+          33.590304
+        ]
+      },
+      "properties": {
+        "stop_id": "6_1ex",
+        "stop_name": "大濠公園1番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.378697,
+          33.59027
+        ]
+      },
+      "properties": {
+        "stop_id": "6_2ex",
+        "stop_name": "大濠公園2番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.378402,
+          33.589966
+        ]
+      },
+      "properties": {
+        "stop_id": "6_3ex",
+        "stop_name": "大濠公園3番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.37972,
+          33.590232
+        ]
+      },
+      "properties": {
+        "stop_id": "6_4ex",
+        "stop_name": "大濠公園4番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.379225,
+          33.58983
+        ]
+      },
+      "properties": {
+        "stop_id": "6_5ex",
+        "stop_name": "大濠公園5番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.378414,
+          33.59004
+        ]
+      },
+      "properties": {
+        "stop_id": "6_6ex",
+        "stop_name": "大濠公園6番出入口",
+        "parent_station": "6",
+        "station_name": "大濠公園",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.390324,
+          33.589109
+        ]
+      },
+      "properties": {
+        "stop_id": "7_1ex",
+        "stop_name": "赤坂1番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.390125,
+          33.588836
+        ]
+      },
+      "properties": {
+        "stop_id": "7_2ex",
+        "stop_name": "赤坂2番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.391053,
+          33.589253
+        ]
+      },
+      "properties": {
+        "stop_id": "7_3ex",
+        "stop_name": "赤坂3番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.391151,
+          33.589085
+        ]
+      },
+      "properties": {
+        "stop_id": "7_4ex",
+        "stop_name": "赤坂4番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.392644,
+          33.589404
+        ]
+      },
+      "properties": {
+        "stop_id": "7_5ex",
+        "stop_name": "赤坂5番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.390323,
+          33.58912
+        ]
+      },
+      "properties": {
+        "stop_id": "7_6ex",
+        "stop_name": "赤坂6番出入口",
+        "parent_station": "7",
+        "station_name": "赤坂",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.396616,
+          33.591006
+        ]
+      },
+      "properties": {
+        "stop_id": "8_1ex",
+        "stop_name": "天神1番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.396562,
+          33.590659
+        ]
+      },
+      "properties": {
+        "stop_id": "8_2ex",
+        "stop_name": "天神2番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.397201,
+          33.590861
+        ]
+      },
+      "properties": {
+        "stop_id": "8_3ex",
+        "stop_name": "天神3番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.397495,
+          33.591212
+        ]
+      },
+      "properties": {
+        "stop_id": "8_4ex",
+        "stop_name": "天神4番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.397877,
+          33.591025
+        ]
+      },
+      "properties": {
+        "stop_id": "8_5ex",
+        "stop_name": "天神5番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.398207,
+          33.591004
+        ]
+      },
+      "properties": {
+        "stop_id": "8_6ex",
+        "stop_name": "天神6番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.398703,
+          33.591191
+        ]
+      },
+      "properties": {
+        "stop_id": "8_7ex",
+        "stop_name": "天神7番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_11ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.399087,
+          33.591541
+        ]
+      },
+      "properties": {
+        "stop_id": "8_11ex",
+        "stop_name": "天神11番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_12ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.400126,
+          33.591737
+        ]
+      },
+      "properties": {
+        "stop_id": "8_12ex",
+        "stop_name": "天神12番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_14ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401413,
+          33.591782
+        ]
+      },
+      "properties": {
+        "stop_id": "8_14ex",
+        "stop_name": "天神14番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_15ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.400618,
+          33.591607
+        ]
+      },
+      "properties": {
+        "stop_id": "8_15ex",
+        "stop_name": "天神15番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8_16ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401703,
+          33.591762
+        ]
+      },
+      "properties": {
+        "stop_id": "8_16ex",
+        "stop_name": "天神16番出入口",
+        "parent_station": "8",
+        "station_name": "天神",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405183,
+          33.593454
+        ]
+      },
+      "properties": {
+        "stop_id": "9_1ex",
+        "stop_name": "中洲川端1番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405012,
+          33.593648
+        ]
+      },
+      "properties": {
+        "stop_id": "9_2ex",
+        "stop_name": "中洲川端2番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405357,
+          33.593861
+        ]
+      },
+      "properties": {
+        "stop_id": "9_3ex",
+        "stop_name": "中洲川端3番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405691,
+          33.593764
+        ]
+      },
+      "properties": {
+        "stop_id": "9_4ex",
+        "stop_name": "中洲川端4番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.406479,
+          33.59462
+        ]
+      },
+      "properties": {
+        "stop_id": "9_5ex",
+        "stop_name": "中洲川端5番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.406048,
+          33.594618
+        ]
+      },
+      "properties": {
+        "stop_id": "9_6ex",
+        "stop_name": "中洲川端6番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.406729,
+          33.595319
+        ]
+      },
+      "properties": {
+        "stop_id": "9_7ex",
+        "stop_name": "中洲川端7番出入口",
+        "parent_station": "9",
+        "station_name": "中洲川端",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414187,
+          33.59447
+        ]
+      },
+      "properties": {
+        "stop_id": "10_1ex",
+        "stop_name": "祇園1番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.413839,
+          33.594356
+        ]
+      },
+      "properties": {
+        "stop_id": "10_2ex",
+        "stop_name": "祇園2番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41422,
+          33.593994
+        ]
+      },
+      "properties": {
+        "stop_id": "10_3ex",
+        "stop_name": "祇園3番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415046,
+          33.593969
+        ]
+      },
+      "properties": {
+        "stop_id": "10_4ex",
+        "stop_name": "祇園4番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414959,
+          33.593502
+        ]
+      },
+      "properties": {
+        "stop_id": "10_5ex",
+        "stop_name": "祇園5番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414455,
+          33.593883
+        ]
+      },
+      "properties": {
+        "stop_id": "10_6ex",
+        "stop_name": "祇園6番出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416208,
+          33.59317
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P1ex",
+        "stop_name": "博多駅方面連絡通路P1出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415946,
+          33.59275
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P2ex",
+        "stop_name": "博多駅方面連絡通路P2出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416851,
+          33.592607
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P3ex",
+        "stop_name": "博多駅方面連絡通路P3出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416776,
+          33.592132
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P4ex",
+        "stop_name": "博多駅方面連絡通路P4出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.417579,
+          33.591397
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P5ex",
+        "stop_name": "博多駅方面連絡通路P5出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418337,
+          33.591528
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P6ex",
+        "stop_name": "博多駅方面連絡通路P6出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10_P7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.417796,
+          33.590976
+        ]
+      },
+      "properties": {
+        "stop_id": "10_P7ex",
+        "stop_name": "博多駅方面連絡通路P7出入口",
+        "parent_station": "10",
+        "station_name": "祇園",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419637,
+          33.590679
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W1ex",
+        "stop_name": "博多西1番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4197,
+          33.590834
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W2ex",
+        "stop_name": "博多西2番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419643,
+          33.591078
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W3ex",
+        "stop_name": "博多西3番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419289,
+          33.591093
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W4ex",
+        "stop_name": "博多西4番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41881,
+          33.591393
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W5ex",
+        "stop_name": "博多西5番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418533,
+          33.591284
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W6ex",
+        "stop_name": "博多西6番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419028,
+          33.590586
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W7ex",
+        "stop_name": "博多西7番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W8ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418581,
+          33.590494
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W8ex",
+        "stop_name": "博多西8番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W9ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418938,
+          33.590485
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W9ex",
+        "stop_name": "博多西9番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W10ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419215,
+          33.590267
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W10ex",
+        "stop_name": "博多西10番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W11ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41856,
+          33.590052
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W11ex",
+        "stop_name": "博多西11番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W12aex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41844,
+          33.590382
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W12aex",
+        "stop_name": "博多西12a番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W12bex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418419,
+          33.590201
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W12bex",
+        "stop_name": "博多西12b番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W13ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418977,
+          33.589966
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W13ex",
+        "stop_name": "博多西13番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W14ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419607,
+          33.589806
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W14ex",
+        "stop_name": "博多西14番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W15ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419124,
+          33.589796
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W15ex",
+        "stop_name": "博多西15番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W16ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419584,
+          33.589216
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W16ex",
+        "stop_name": "博多西16番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W17ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419028,
+          33.589463
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W17ex",
+        "stop_name": "博多西17番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W18ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418238,
+          33.589831
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W18ex",
+        "stop_name": "博多西18番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W19ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418282,
+          33.589536
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W19ex",
+        "stop_name": "博多西19番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W20ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.41816,
+          33.589533
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W20ex",
+        "stop_name": "博多西20番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W21ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418503,
+          33.589493
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W21ex",
+        "stop_name": "博多西21番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W22ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419757,
+          33.589118
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W22ex",
+        "stop_name": "博多西22番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W23ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418926,
+          33.588718
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W23ex",
+        "stop_name": "博多西23番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_W24ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418949,
+          33.587799
+        ]
+      },
+      "properties": {
+        "stop_id": "11_W24ex",
+        "stop_name": "博多西24番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_C1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421008,
+          33.590211
+        ]
+      },
+      "properties": {
+        "stop_id": "11_C1ex",
+        "stop_name": "博多中央1番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_C2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420891,
+          33.59025
+        ]
+      },
+      "properties": {
+        "stop_id": "11_C2ex",
+        "stop_name": "博多中央2番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_C3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420603,
+          33.590264
+        ]
+      },
+      "properties": {
+        "stop_id": "11_C3ex",
+        "stop_name": "博多中央3番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_C4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420026,
+          33.590269
+        ]
+      },
+      "properties": {
+        "stop_id": "11_C4ex",
+        "stop_name": "博多中央4番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421305,
+          33.590179
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E1ex",
+        "stop_name": "博多東1番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421513,
+          33.589909
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E2ex",
+        "stop_name": "博多東2番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421536,
+          33.590602
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E3ex",
+        "stop_name": "博多東3番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.422091,
+          33.590568
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E4ex",
+        "stop_name": "博多東4番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.42223,
+          33.589793
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E5ex",
+        "stop_name": "博多東5番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_E6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.422871,
+          33.590099
+        ]
+      },
+      "properties": {
+        "stop_id": "11_E6ex",
+        "stop_name": "博多東6番出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416208,
+          33.59317
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P1ex",
+        "stop_name": "祇園駅方面連絡通路P1出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415946,
+          33.59275
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P2ex",
+        "stop_name": "祇園駅方面連絡通路P2出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416851,
+          33.592607
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P3ex",
+        "stop_name": "祇園駅方面連絡通路P3出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.416776,
+          33.592132
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P4ex",
+        "stop_name": "祇園駅方面連絡通路P4出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.417579,
+          33.591397
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P5ex",
+        "stop_name": "祇園駅方面連絡通路P5出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418337,
+          33.591528
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P6ex",
+        "stop_name": "祇園駅方面連絡通路P6出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11_P7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.417796,
+          33.590976
+        ]
+      },
+      "properties": {
+        "stop_id": "11_P7ex",
+        "stop_name": "祇園駅方面連絡通路P7出入口",
+        "parent_station": "11",
+        "station_name": "博多",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.430514,
+          33.588857
+        ]
+      },
+      "properties": {
+        "stop_id": "12_1ex",
+        "stop_name": "東比恵1番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.430747,
+          33.588696
+        ]
+      },
+      "properties": {
+        "stop_id": "12_2ex",
+        "stop_name": "東比恵2番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.431163,
+          33.588793
+        ]
+      },
+      "properties": {
+        "stop_id": "12_3ex",
+        "stop_name": "東比恵3番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.430829,
+          33.589389
+        ]
+      },
+      "properties": {
+        "stop_id": "12_4ex",
+        "stop_name": "東比恵4番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.431238,
+          33.589294
+        ]
+      },
+      "properties": {
+        "stop_id": "12_5ex",
+        "stop_name": "東比恵5番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.43177,
+          33.590194
+        ]
+      },
+      "properties": {
+        "stop_id": "12_6ex",
+        "stop_name": "東比恵6番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.43152,
+          33.590678
+        ]
+      },
+      "properties": {
+        "stop_id": "12_7ex",
+        "stop_name": "東比恵7番出入口",
+        "parent_station": "12",
+        "station_name": "東比恵",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_1Aex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.448456,
+          33.596909
+        ]
+      },
+      "properties": {
+        "stop_id": "13_1Aex",
+        "stop_name": "福岡空港1A番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_1Bex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.448475,
+          33.596879
+        ]
+      },
+      "properties": {
+        "stop_id": "13_1Bex",
+        "stop_name": "福岡空港1B番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.447788,
+          33.597461
+        ]
+      },
+      "properties": {
+        "stop_id": "13_2ex",
+        "stop_name": "福岡空港2番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.448961,
+          33.596709
+        ]
+      },
+      "properties": {
+        "stop_id": "13_3ex",
+        "stop_name": "福岡空港3番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.44921,
+          33.596783
+        ]
+      },
+      "properties": {
+        "stop_id": "13_4ex",
+        "stop_name": "福岡空港4番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.449094,
+          33.596864
+        ]
+      },
+      "properties": {
+        "stop_id": "13_5ex",
+        "stop_name": "福岡空港5番出入口",
+        "parent_station": "13",
+        "station_name": "福岡空港",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.40964,
+          33.597563
+        ]
+      },
+      "properties": {
+        "stop_id": "14_1ex",
+        "stop_name": "呉服町1番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.409278,
+          33.597747
+        ]
+      },
+      "properties": {
+        "stop_id": "14_2ex",
+        "stop_name": "呉服町2番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.409258,
+          33.598318
+        ]
+      },
+      "properties": {
+        "stop_id": "14_3ex",
+        "stop_name": "呉服町3番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.409599,
+          33.598109
+        ]
+      },
+      "properties": {
+        "stop_id": "14_4ex",
+        "stop_name": "呉服町4番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.409973,
+          33.598094
+        ]
+      },
+      "properties": {
+        "stop_id": "14_5ex",
+        "stop_name": "呉服町5番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.409143,
+          33.597995
+        ]
+      },
+      "properties": {
+        "stop_id": "14_6ex",
+        "stop_name": "呉服町6番出入口",
+        "parent_station": "14",
+        "station_name": "呉服町",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414092,
+          33.601915
+        ]
+      },
+      "properties": {
+        "stop_id": "15_1ex",
+        "stop_name": "千代県庁口1番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.413634,
+          33.60235
+        ]
+      },
+      "properties": {
+        "stop_id": "15_2ex",
+        "stop_name": "千代県庁口2番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.413853,
+          33.602526
+        ]
+      },
+      "properties": {
+        "stop_id": "15_3ex",
+        "stop_name": "千代県庁口3番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414253,
+          33.602295
+        ]
+      },
+      "properties": {
+        "stop_id": "15_4ex",
+        "stop_name": "千代県庁口4番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.414611,
+          33.602967
+        ]
+      },
+      "properties": {
+        "stop_id": "15_5ex",
+        "stop_name": "千代県庁口5番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415199,
+          33.603214
+        ]
+      },
+      "properties": {
+        "stop_id": "15_6ex",
+        "stop_name": "千代県庁口6番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415189,
+          33.60358
+        ]
+      },
+      "properties": {
+        "stop_id": "15_7ex",
+        "stop_name": "千代県庁口7番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15_8ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.415102,
+          33.603026
+        ]
+      },
+      "properties": {
+        "stop_id": "15_8ex",
+        "stop_name": "千代県庁口8番出入口",
+        "parent_station": "15",
+        "station_name": "千代県庁口",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418835,
+          33.608725
+        ]
+      },
+      "properties": {
+        "stop_id": "16_1ex",
+        "stop_name": "馬出九大病院前1番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419342,
+          33.608578
+        ]
+      },
+      "properties": {
+        "stop_id": "16_2ex",
+        "stop_name": "馬出九大病院前2番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419425,
+          33.608779
+        ]
+      },
+      "properties": {
+        "stop_id": "16_3ex",
+        "stop_name": "馬出九大病院前3番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419814,
+          33.609572
+        ]
+      },
+      "properties": {
+        "stop_id": "16_4ex",
+        "stop_name": "馬出九大病院前4番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419775,
+          33.60994
+        ]
+      },
+      "properties": {
+        "stop_id": "16_5ex",
+        "stop_name": "馬出九大病院前5番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419044,
+          33.608599
+        ]
+      },
+      "properties": {
+        "stop_id": "16_6ex",
+        "stop_name": "馬出九大病院前6番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418374,
+          33.609134
+        ]
+      },
+      "properties": {
+        "stop_id": "16_7ex",
+        "stop_name": "馬出九大病院前7番出入口",
+        "parent_station": "16",
+        "station_name": "馬出九大病院前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420156,
+          33.615554
+        ]
+      },
+      "properties": {
+        "stop_id": "17_1ex",
+        "stop_name": "箱崎宮前1番出入口",
+        "parent_station": "17",
+        "station_name": "箱崎宮前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.419339,
+          33.616228
+        ]
+      },
+      "properties": {
+        "stop_id": "17_2ex",
+        "stop_name": "箱崎宮前2番出入口",
+        "parent_station": "17",
+        "station_name": "箱崎宮前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.418853,
+          33.616941
+        ]
+      },
+      "properties": {
+        "stop_id": "17_3ex",
+        "stop_name": "箱崎宮前3番出入口",
+        "parent_station": "17",
+        "station_name": "箱崎宮前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420196,
+          33.615615
+        ]
+      },
+      "properties": {
+        "stop_id": "17_4ex",
+        "stop_name": "箱崎宮前4番出入口",
+        "parent_station": "17",
+        "station_name": "箱崎宮前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.420925,
+          33.621934
+        ]
+      },
+      "properties": {
+        "stop_id": "18_1ex",
+        "stop_name": "箱崎九大前1番出入口",
+        "parent_station": "18",
+        "station_name": "箱崎九大前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421444,
+          33.622657
+        ]
+      },
+      "properties": {
+        "stop_id": "18_2ex",
+        "stop_name": "箱崎九大前2番出入口",
+        "parent_station": "18",
+        "station_name": "箱崎九大前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421283,
+          33.622785
+        ]
+      },
+      "properties": {
+        "stop_id": "18_3ex",
+        "stop_name": "箱崎九大前3番出入口",
+        "parent_station": "18",
+        "station_name": "箱崎九大前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.421207,
+          33.622467
+        ]
+      },
+      "properties": {
+        "stop_id": "18_4ex",
+        "stop_name": "箱崎九大前4番出入口",
+        "parent_station": "18",
+        "station_name": "箱崎九大前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.42538,
+          33.631746
+        ]
+      },
+      "properties": {
+        "stop_id": "19_1ex",
+        "stop_name": "貝塚1番出入口",
+        "parent_station": "19",
+        "station_name": "貝塚",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.425785,
+          33.632157
+        ]
+      },
+      "properties": {
+        "stop_id": "19_2ex",
+        "stop_name": "貝塚2番出入口",
+        "parent_station": "19",
+        "station_name": "貝塚",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.425386,
+          33.632078
+        ]
+      },
+      "properties": {
+        "stop_id": "19_3ex",
+        "stop_name": "貝塚3番出入口",
+        "parent_station": "19",
+        "station_name": "貝塚",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.425706,
+          33.631885
+        ]
+      },
+      "properties": {
+        "stop_id": "19_4ex",
+        "stop_name": "貝塚4番出入口",
+        "parent_station": "19",
+        "station_name": "貝塚",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.320608,
+          33.555756
+        ]
+      },
+      "properties": {
+        "stop_id": "20_1ex",
+        "stop_name": "橋本1番出入口",
+        "parent_station": "20",
+        "station_name": "橋本",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.320992,
+          33.555004
+        ]
+      },
+      "properties": {
+        "stop_id": "20_2ex",
+        "stop_name": "橋本2番出入口",
+        "parent_station": "20",
+        "station_name": "橋本",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.329359,
+          33.552816
+        ]
+      },
+      "properties": {
+        "stop_id": "21_1ex",
+        "stop_name": "次郎丸1番出入口",
+        "parent_station": "21",
+        "station_name": "次郎丸",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.329758,
+          33.552113
+        ]
+      },
+      "properties": {
+        "stop_id": "21_2ex",
+        "stop_name": "次郎丸2番出入口",
+        "parent_station": "21",
+        "station_name": "次郎丸",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.337033,
+          33.550402
+        ]
+      },
+      "properties": {
+        "stop_id": "22_1ex",
+        "stop_name": "賀茂1番出入口",
+        "parent_station": "22",
+        "station_name": "賀茂",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.338483,
+          33.550619
+        ]
+      },
+      "properties": {
+        "stop_id": "22_2ex",
+        "stop_name": "賀茂2番出入口",
+        "parent_station": "22",
+        "station_name": "賀茂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.346975,
+          33.547752
+        ]
+      },
+      "properties": {
+        "stop_id": "23_1ex",
+        "stop_name": "野芥1番出入口",
+        "parent_station": "23",
+        "station_name": "野芥",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.347678,
+          33.548132
+        ]
+      },
+      "properties": {
+        "stop_id": "23_2ex",
+        "stop_name": "野芥2番出入口",
+        "parent_station": "23",
+        "station_name": "野芥",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.354683,
+          33.54608
+        ]
+      },
+      "properties": {
+        "stop_id": "24_1ex",
+        "stop_name": "梅林1番出入口",
+        "parent_station": "24",
+        "station_name": "梅林",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.355069,
+          33.545439
+        ]
+      },
+      "properties": {
+        "stop_id": "24_2ex",
+        "stop_name": "梅林2番出入口",
+        "parent_station": "24",
+        "station_name": "梅林",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.362617,
+          33.547283
+        ]
+      },
+      "properties": {
+        "stop_id": "25_1ex",
+        "stop_name": "福大前1番出入口",
+        "parent_station": "25",
+        "station_name": "福大前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.362054,
+          33.547513
+        ]
+      },
+      "properties": {
+        "stop_id": "25_2ex",
+        "stop_name": "福大前2番出入口",
+        "parent_station": "25",
+        "station_name": "福大前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.362355,
+          33.552729
+        ]
+      },
+      "properties": {
+        "stop_id": "26_1ex",
+        "stop_name": "七隈1番出入口",
+        "parent_station": "26",
+        "station_name": "七隈",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.361366,
+          33.552895
+        ]
+      },
+      "properties": {
+        "stop_id": "26_2ex",
+        "stop_name": "七隈2番出入口",
+        "parent_station": "26",
+        "station_name": "七隈",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.361474,
+          33.559425
+        ]
+      },
+      "properties": {
+        "stop_id": "27_1ex",
+        "stop_name": "金山1番出入口",
+        "parent_station": "27",
+        "station_name": "金山",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.361982,
+          33.559677
+        ]
+      },
+      "properties": {
+        "stop_id": "27_2ex",
+        "stop_name": "金山2番出入口",
+        "parent_station": "27",
+        "station_name": "金山",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.365833,
+          33.566213
+        ]
+      },
+      "properties": {
+        "stop_id": "28_1ex",
+        "stop_name": "茶山1番出入口",
+        "parent_station": "28",
+        "station_name": "茶山",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.365461,
+          33.566791
+        ]
+      },
+      "properties": {
+        "stop_id": "28_2ex",
+        "stop_name": "茶山2番出入口",
+        "parent_station": "28",
+        "station_name": "茶山",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.368288,
+          33.573712
+        ]
+      },
+      "properties": {
+        "stop_id": "29_1ex",
+        "stop_name": "別府1番出入口",
+        "parent_station": "29",
+        "station_name": "別府",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.369879,
+          33.574136
+        ]
+      },
+      "properties": {
+        "stop_id": "29_2ex",
+        "stop_name": "別府2番出入口",
+        "parent_station": "29",
+        "station_name": "別府",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.37064,
+          33.574809
+        ]
+      },
+      "properties": {
+        "stop_id": "29_3ex",
+        "stop_name": "別府3番出入口",
+        "parent_station": "29",
+        "station_name": "別府",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.377008,
+          33.577379
+        ]
+      },
+      "properties": {
+        "stop_id": "30_1ex",
+        "stop_name": "六本松1番出入口",
+        "parent_station": "30",
+        "station_name": "六本松",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.377252,
+          33.577883
+        ]
+      },
+      "properties": {
+        "stop_id": "30_2ex",
+        "stop_name": "六本松2番出入口",
+        "parent_station": "30",
+        "station_name": "六本松",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.377741,
+          33.577563
+        ]
+      },
+      "properties": {
+        "stop_id": "30_3ex",
+        "stop_name": "六本松3番出入口",
+        "parent_station": "30",
+        "station_name": "六本松",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.386764,
+          33.577142
+        ]
+      },
+      "properties": {
+        "stop_id": "31_1ex",
+        "stop_name": "桜坂1番出入口",
+        "parent_station": "31",
+        "station_name": "桜坂",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.387238,
+          33.577392
+        ]
+      },
+      "properties": {
+        "stop_id": "31_2ex",
+        "stop_name": "桜坂2番出入口",
+        "parent_station": "31",
+        "station_name": "桜坂",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.396012,
+          33.580491
+        ]
+      },
+      "properties": {
+        "stop_id": "32_1ex",
+        "stop_name": "薬院大通1番出入口",
+        "parent_station": "32",
+        "station_name": "薬院大通",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.397133,
+          33.580511
+        ]
+      },
+      "properties": {
+        "stop_id": "32_2ex",
+        "stop_name": "薬院大通2番出入口",
+        "parent_station": "32",
+        "station_name": "薬院大通",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401832,
+          33.581889
+        ]
+      },
+      "properties": {
+        "stop_id": "33_1ex",
+        "stop_name": "薬院1番出入口",
+        "parent_station": "33",
+        "station_name": "薬院",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401967,
+          33.581472
+        ]
+      },
+      "properties": {
+        "stop_id": "33_2ex",
+        "stop_name": "薬院2番出入口",
+        "parent_station": "33",
+        "station_name": "薬院",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.404737,
+          33.58374
+        ]
+      },
+      "properties": {
+        "stop_id": "34_1ex",
+        "stop_name": "渡辺通1番出入口",
+        "parent_station": "34",
+        "station_name": "渡辺通",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.405216,
+          33.58377
+        ]
+      },
+      "properties": {
+        "stop_id": "34_2ex",
+        "stop_name": "渡辺通2番出入口",
+        "parent_station": "34",
+        "station_name": "渡辺通",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401598,
+          33.588012
+        ]
+      },
+      "properties": {
+        "stop_id": "35_1ex",
+        "stop_name": "天神南1番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401491,
+          33.588249
+        ]
+      },
+      "properties": {
+        "stop_id": "35_2ex",
+        "stop_name": "天神南2番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.401958,
+          33.58849
+        ]
+      },
+      "properties": {
+        "stop_id": "35_3ex",
+        "stop_name": "天神南3番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.402276,
+          33.588649
+        ]
+      },
+      "properties": {
+        "stop_id": "35_4ex",
+        "stop_name": "天神南4番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.402601,
+          33.589031
+        ]
+      },
+      "properties": {
+        "stop_id": "35_5ex",
+        "stop_name": "天神南5番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.403052,
+          33.588699
+        ]
+      },
+      "properties": {
+        "stop_id": "35_6ex",
+        "stop_name": "天神南6番出入口",
+        "parent_station": "35",
+        "station_name": "天神南",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_1ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4104359,
+          33.5917969
+        ]
+      },
+      "properties": {
+        "stop_id": "36_1ex",
+        "stop_name": "櫛田神社前１番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_2ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4106093,
+          33.5917679
+        ]
+      },
+      "properties": {
+        "stop_id": "36_2ex",
+        "stop_name": "櫛田神社前２番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_3ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.410728,
+          33.5919159
+        ]
+      },
+      "properties": {
+        "stop_id": "36_3ex",
+        "stop_name": "櫛田神社前３番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_4ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4117244,
+          33.5913177
+        ]
+      },
+      "properties": {
+        "stop_id": "36_4ex",
+        "stop_name": "櫛田神社前４番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_5ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4126228,
+          33.5908014
+        ]
+      },
+      "properties": {
+        "stop_id": "36_5ex",
+        "stop_name": "櫛田神社前５番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_6ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4125645,
+          33.5909372
+        ]
+      },
+      "properties": {
+        "stop_id": "36_6ex",
+        "stop_name": "櫛田神社前６番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36_7ex",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4125108,
+          33.5906478
+        ]
+      },
+      "properties": {
+        "stop_id": "36_7ex",
+        "stop_name": "櫛田神社前７番出入口",
+        "parent_station": "36",
+        "station_name": "櫛田神社前",
+        "wheelchair_boarding": 2
+      }
+    }
+  ]
+}
